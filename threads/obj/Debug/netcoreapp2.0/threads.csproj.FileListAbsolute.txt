@@ -1,0 +1,10 @@
+/home/mikhailgolubitsky/source/dotnet/threads/bin/Debug/netcoreapp2.0/threads.deps.json
+/home/mikhailgolubitsky/source/dotnet/threads/bin/Debug/netcoreapp2.0/threads.runtimeconfig.json
+/home/mikhailgolubitsky/source/dotnet/threads/bin/Debug/netcoreapp2.0/threads.runtimeconfig.dev.json
+/home/mikhailgolubitsky/source/dotnet/threads/bin/Debug/netcoreapp2.0/threads.dll
+/home/mikhailgolubitsky/source/dotnet/threads/bin/Debug/netcoreapp2.0/threads.pdb
+/home/mikhailgolubitsky/source/dotnet/threads/obj/Debug/netcoreapp2.0/threads.csproj.CoreCompileInputs.cache
+/home/mikhailgolubitsky/source/dotnet/threads/obj/Debug/netcoreapp2.0/threads.AssemblyInfoInputs.cache
+/home/mikhailgolubitsky/source/dotnet/threads/obj/Debug/netcoreapp2.0/threads.AssemblyInfo.cs
+/home/mikhailgolubitsky/source/dotnet/threads/obj/Debug/netcoreapp2.0/threads.dll
+/home/mikhailgolubitsky/source/dotnet/threads/obj/Debug/netcoreapp2.0/threads.pdb
